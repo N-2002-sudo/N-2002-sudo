@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-2002-sudo
+- 👋 Hi, I’m nagamani
 - 👀 I’m interested in  data analyst jobs
 - 🌱 I’m currently learning advanced Excel and Python 
 - 💞️ I’m looking to collaborate on 
